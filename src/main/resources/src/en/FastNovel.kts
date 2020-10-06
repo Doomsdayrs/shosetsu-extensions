@@ -1,7 +1,6 @@
 import app.shosetsu.lib.*
 import app.shosetsu.lib.kts.ShosetsuKtsLib
 import org.json.JSONObject
-
 object : IExtension {
 
 	override val name: String = "FastNovel"

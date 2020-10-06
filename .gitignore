@@ -8,4 +8,6 @@ personal
 out/*
 gradlew
 gradlew.bat
-gradle
+lib/*
+# Ignore Gradle build output directory
+build
