@@ -38,11 +38,11 @@
     },
     {
       "name": "Foxaholic",
-      "fileName": "foxaholic",
+      "fileName": "Foxaholic",
       "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/Foxaholic.png",
       "id": 173,
       "lang": "en",
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "libVer": "1.0.0",
       "md5": "c5977c9ba48c5115426fb3010cc65894"
     },
@@ -179,20 +179,20 @@
     {
       "name": "Light Novel Heaven",
       "fileName": "LightNovelHeaven",
-      "imageURL": "https://lightnovelheaven.com/wp-content/uploads/2017/10/lnhlast.png",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/LightNovelHeaven.png",
       "id": 2925,
       "lang": "en",
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": "480c6c32b3cd81cde7faf19cc3496b0d"
     },
     {
       "name": "Light Novel Bastion",
       "fileName": "LightNovelBastion",
-      "imageURL": "https://lightnovelbastion.com/wp-content/uploads/2017/10/logo.png",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/LightNovelBastion.png",
       "id": 762,
       "lang": "en",
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": "6e3dd280e11a4ba1b3dcf7f67b917e81"
     },
@@ -202,7 +202,7 @@
       "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/SaikaiScan.png",
       "id": 2443,
       "lang": "pt",
-      "ver": "1.0.1",
+      "ver": "1.0.2",
       "libVer": "1.0.0",
       "md5": "c47e56dfa754a3f0e95fc6a57d9e15b6"
     },
@@ -219,20 +219,20 @@
     {
       "name": "KobatoChanDaiSuki",
       "fileName": "KobatoChan",
-      "imageURL": "",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/KobatoChan.png",
       "id": 74485,
       "lang": "en",
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": ""
     },
     {
       "name": "Asian Hobbyist",
       "fileName": "AsianHobbyist",
-      "imageURL": "",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/AsianHobbyist.png",
       "id": 951,
       "lang": "en",
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": "16348946cb5981a279d80b5f34ffe505"
     }

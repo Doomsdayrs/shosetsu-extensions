@@ -1,4 +1,4 @@
--- {"id":951,"ver":"1.0.0","libVer":"1.0.0","author":"Doomsdayrs"}
+-- {"id":951,"ver":"1.0.1","libVer":"1.0.0","author":"Doomsdayrs"}
 
 local baseURL = "https://www.asianhobbyist.com"
 
@@ -84,6 +84,7 @@ return {
 	id = 951,
 	name = "Asian Hobbyist",
 	baseURL = baseURL,
+	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/AsianHobbyist.png",
 	hasSearch = true,
 	listings = {
 		Listing("Latest", false, function()

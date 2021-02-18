@@ -1,4 +1,4 @@
--- {"id":2443,"ver":"1.0.1","libVer":"1.0.0","author":"Doomsdayrs","dep":["url>=1.0.0"]}
+-- {"id":2443,"ver":"1.0.2","libVer":"1.0.0","author":"Doomsdayrs","dep":["url>=1.0.0"]}
 
 local baseURL = "https://saikaiscan.com.br"
 local settings = {}
@@ -93,7 +93,7 @@ return {
 	baseURL = baseURL,
 
 	-- Optional values to change
-	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/SaikaiScan.png"
+	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/SaikaiScan.png",
 	hasSearch = false,
 
 	-- Must have at least one value

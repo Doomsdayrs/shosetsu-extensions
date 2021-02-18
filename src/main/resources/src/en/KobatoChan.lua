@@ -1,4 +1,4 @@
--- {"id":74485,"ver":"1.0.0","libVer":"1.0.0","author":"TechnoJo4"}
+-- {"id":74485,"ver":"1.0.1","libVer":"1.0.0","author":"TechnoJo4"}
 
 local baseURL = "https://kobatochan.com"
 
@@ -35,6 +35,7 @@ return {
 	id = 74485,
 	name = "KobatoChanDaiSuki",
 	baseURL = baseURL,
+	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/src/main/resources/icons/KobatoChan.png",
 	hasSearch = false,
 
 	listings = {
